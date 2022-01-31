@@ -1,1 +1,2 @@
-# AzCore Initial Labs and info
+# AzCore 
+Initial Labs and Changes
